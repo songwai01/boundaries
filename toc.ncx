@@ -1,0 +1,171 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="eng">
+  <head>
+    <meta name="dtb:uid" content="bfe554be-eab9-4282-9e84-147a2e05344f"/>
+    <meta name="dtb:depth" content="3"/>
+    <meta name="dtb:generator" content="calibre (7.10.0)"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>立界線得自由</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u4KTFsFnJuZpjnGUEDJ5jEF" playOrder="1" class="chapter">
+      <navLabel>
+        <text>作者簡介</text>
+      </navLabel>
+      <content src="OEBPS/A.xhtml"/>
+    </navPoint>
+    <navPoint id="ujT8eCBV56lfcRwNFbV3UaB" playOrder="2" class="chapter">
+      <navLabel>
+        <text>版權頁</text>
+      </navLabel>
+      <content src="OEBPS/A-5.xhtml"/>
+    </navPoint>
+    <navPoint id="uLCGzhOoXWlQEhXoOavwwi5" playOrder="3" class="chapter">
+      <navLabel>
+        <text>目錄</text>
+      </navLabel>
+      <content src="OEBPS/QQQA-7.xhtml"/>
+    </navPoint>
+    <navPoint id="uT28vGh8w7AJDDmVU5H5vuD" playOrder="4" class="chapter">
+      <navLabel>
+        <text>推薦序</text>
+      </navLabel>
+      <content src="OEBPS/A-8.xhtml"/>
+    </navPoint>
+    <navPoint id="ufdj5O3s5rMvTqUoa6xKt8C" playOrder="5" class="chapter">
+      <navLabel>
+        <text>致 謝</text>
+      </navLabel>
+      <content src="OEBPS/A-9.xhtml"/>
+    </navPoint>
+    <navPoint id="ubyxwmyMahlbusZxXCneB67" playOrder="6" class="chapter">
+      <navLabel>
+        <text>第一部 什麼是界線？</text>
+      </navLabel>
+      <content src="OEBPS/A-10.xhtml"/>
+      <navPoint id="usXipu8bdkIxw5NbdocPm6D" playOrder="7" class="chapter">
+        <navLabel>
+          <text>第1章 界線混亂的一天</text>
+        </navLabel>
+        <content src="OEBPS/A-11.xhtml"/>
+      </navPoint>
+      <navPoint id="uC5AbB73rXiAUMn8yhxitL9" playOrder="8" class="chapter">
+        <navLabel>
+          <text>第2章 界線看來啥模樣？</text>
+        </navLabel>
+        <content src="OEBPS/A-12.xhtml"/>
+      </navPoint>
+      <navPoint id="u6JpnOS2jrUlYrbSxqTCPJ9" playOrder="9" class="chapter">
+        <navLabel>
+          <text>第3章 當界線出了問題</text>
+        </navLabel>
+        <content src="OEBPS/A-13.xhtml"/>
+      </navPoint>
+      <navPoint id="urJdkVF649Fzk4BAhHozMa8" playOrder="10" class="chapter">
+        <navLabel>
+          <text>第4章 界線的發展歷程</text>
+        </navLabel>
+        <content src="OEBPS/A-14.xhtml"/>
+      </navPoint>
+      <navPoint id="u8oTQGRwgiianyMyuq5Q7tF" playOrder="11" class="chapter">
+        <navLabel>
+          <text>第5章 界線十律</text>
+        </navLabel>
+        <content src="OEBPS/A-15.xhtml"/>
+      </navPoint>
+      <navPoint id="uMtmUlSdYZAZqzwsMQCVDaB" playOrder="12" class="chapter">
+        <navLabel>
+          <text>第6章 常見的界線迷思</text>
+        </navLabel>
+        <content src="OEBPS/A-16.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="uXPigXgAMZkhzRHJCgqu3n2" playOrder="13" class="chapter">
+      <navLabel>
+        <text>第二部 界線衝突</text>
+      </navLabel>
+      <content src="OEBPS/A-17.xhtml"/>
+      <navPoint id="uFTLKxxoTzj4MQQ3TPMtJv3" playOrder="14" class="chapter">
+        <navLabel>
+          <text>第7章 界線與你的家庭</text>
+        </navLabel>
+        <content src="OEBPS/A-18.xhtml"/>
+      </navPoint>
+      <navPoint id="ucT8Ys8nzNcFxnx6pUsbpBC" playOrder="15" class="chapter">
+        <navLabel>
+          <text>第8章 界線與你的朋友</text>
+        </navLabel>
+        <content src="OEBPS/A-19.xhtml"/>
+      </navPoint>
+      <navPoint id="uOo9wXHXlMgNo6AMFkKULu5" playOrder="16" class="chapter">
+        <navLabel>
+          <text>第9章 界線與你的配偶</text>
+        </navLabel>
+        <content src="OEBPS/A-20.xhtml"/>
+      </navPoint>
+      <navPoint id="uDb5WTrvC6oiprqftEjEtxC" playOrder="17" class="chapter">
+        <navLabel>
+          <text>第10章 界線與你的子女</text>
+        </navLabel>
+        <content src="OEBPS/A-21.xhtml"/>
+      </navPoint>
+      <navPoint id="uQT3wsuAANHCTKtScgdj3n6" playOrder="18" class="chapter">
+        <navLabel>
+          <text>第11章 界線與工作</text>
+        </navLabel>
+        <content src="OEBPS/A-22.xhtml"/>
+      </navPoint>
+      <navPoint id="uywuEZqlXdqCBcdnYUAixS4" playOrder="19" class="chapter">
+        <navLabel>
+          <text>第12章 界線與數位時代</text>
+        </navLabel>
+        <content src="OEBPS/A-23.xhtml"/>
+      </navPoint>
+      <navPoint id="ujNvfaFmVFJe6o2oHadhBU8" playOrder="20" class="chapter">
+        <navLabel>
+          <text>第13章 界線與自己</text>
+        </navLabel>
+        <content src="OEBPS/A-24.xhtml"/>
+      </navPoint>
+      <navPoint id="u6MseWNvttavfd9Vpl9gI52" playOrder="21" class="chapter">
+        <navLabel>
+          <text>第14章 界線與上帝</text>
+        </navLabel>
+        <content src="OEBPS/A-25.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="uL37DgvCAUsRUXmZCqLBYy6" playOrder="22" class="chapter">
+      <navLabel>
+        <text>第三部 發展健康的界線</text>
+      </navLabel>
+      <content src="OEBPS/Section0001.xhtml"/>
+      <navPoint id="u2m4czs3CfmXiuIcNTive49" playOrder="23" class="chapter">
+        <navLabel>
+          <text>第15章 對界線的抗拒</text>
+        </navLabel>
+        <content src="OEBPS/A-26.xhtml"/>
+      </navPoint>
+      <navPoint id="uMvXkP6O3Rsw8TEOX8J4FsG" playOrder="24" class="chapter">
+        <navLabel>
+          <text>第16章 評估界線發展進度</text>
+        </navLabel>
+        <content src="OEBPS/A-27.xhtml"/>
+      </navPoint>
+      <navPoint id="umLngt8BjpBxylNNqkV779C" playOrder="25" class="chapter">
+        <navLabel>
+          <text>第17章 界線明確的一天</text>
+        </navLabel>
+        <content src="OEBPS/A-28.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="ux5c8hHLQzLfCWHSNfXBx9D" playOrder="26" class="chapter">
+      <navLabel>
+        <text>中英名詞對照表</text>
+      </navLabel>
+      <content src="OEBPS/A-29.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

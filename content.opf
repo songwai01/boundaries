@@ -1,0 +1,100 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata">
+    <dc:title>立界線得自由</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Townsend）, 克勞德（Henry Cloud）、湯森德（John">克勞德（Henry Cloud）、湯森德（John Townsend）</dc:creator>
+    <dc:contributor opf:role="bkp">calibre (7.10.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:publisher>校園書房出版社</dc:publisher>
+    <dc:date>2023-01-15T00:00:00+00:00</dc:date>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">bfe554be-eab9-4282-9e84-147a2e05344f</dc:identifier>
+    <dc:language>en</dc:language>
+    <dc:language>zh</dc:language>
+    <dc:identifier opf:scheme="calibre">bfe554be-eab9-4282-9e84-147a2e05344f</dc:identifier>
+    <meta name="calibre:timestamp" content="2025-07-21T05:46:38.204625+00:00"/>
+    <meta name="calibre:title_sort" content="立界線得自由"/>
+    <meta name="cover" content="cover"/>
+  </metadata>
+  <manifest>
+    <item id="titlepage" href="titlepage.xhtml" media-type="application/xhtml+xml"/>
+    <item id="A" href="OEBPS/A.xhtml" media-type="application/xhtml+xml"/>
+    <item id="A-1" href="OEBPS/A-1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="A-2" href="OEBPS/A-2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="A-3" href="OEBPS/A-3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="A-4" href="OEBPS/A-4.xhtml" media-type="application/xhtml+xml"/>
+    <item id="A-5" href="OEBPS/A-5.xhtml" media-type="application/xhtml+xml"/>
+    <item id="A-6" href="OEBPS/A-6.xhtml" media-type="application/xhtml+xml"/>
+    <item id="QQQA-7.xhtml" href="OEBPS/QQQA-7.xhtml" media-type="application/xhtml+xml"/>
+    <item id="A-8" href="OEBPS/A-8.xhtml" media-type="application/xhtml+xml"/>
+    <item id="A-9" href="OEBPS/A-9.xhtml" media-type="application/xhtml+xml"/>
+    <item id="A-10" href="OEBPS/A-10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="A-11" href="OEBPS/A-11.xhtml" media-type="application/xhtml+xml"/>
+    <item id="A-12" href="OEBPS/A-12.xhtml" media-type="application/xhtml+xml"/>
+    <item id="A-13" href="OEBPS/A-13.xhtml" media-type="application/xhtml+xml"/>
+    <item id="A-14" href="OEBPS/A-14.xhtml" media-type="application/xhtml+xml"/>
+    <item id="A-15" href="OEBPS/A-15.xhtml" media-type="application/xhtml+xml"/>
+    <item id="A-16" href="OEBPS/A-16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="A-17" href="OEBPS/A-17.xhtml" media-type="application/xhtml+xml"/>
+    <item id="A-18" href="OEBPS/A-18.xhtml" media-type="application/xhtml+xml"/>
+    <item id="A-19" href="OEBPS/A-19.xhtml" media-type="application/xhtml+xml"/>
+    <item id="A-20" href="OEBPS/A-20.xhtml" media-type="application/xhtml+xml"/>
+    <item id="A-21" href="OEBPS/A-21.xhtml" media-type="application/xhtml+xml"/>
+    <item id="A-22" href="OEBPS/A-22.xhtml" media-type="application/xhtml+xml"/>
+    <item id="A-23" href="OEBPS/A-23.xhtml" media-type="application/xhtml+xml"/>
+    <item id="A-24" href="OEBPS/A-24.xhtml" media-type="application/xhtml+xml"/>
+    <item id="A-25.xhtml" href="OEBPS/A-25.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0001.xhtml" href="OEBPS/Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item id="A-26" href="OEBPS/A-26.xhtml" media-type="application/xhtml+xml"/>
+    <item id="A-27" href="OEBPS/A-27.xhtml" media-type="application/xhtml+xml"/>
+    <item id="A-28" href="OEBPS/A-28.xhtml" media-type="application/xhtml+xml"/>
+    <item id="A-29" href="OEBPS/A-29.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="page_css" href="page_styles.css" media-type="text/css"/>
+    <item id="css" href="stylesheet.css" media-type="text/css"/>
+    <item id="cover" href="cover.jpeg" media-type="image/jpeg"/>
+    <item id="x1.jpg" href="OEBPS/image/1.jpg" media-type="image/jpeg"/>
+    <item id="x2.jpg" href="OEBPS/image/2.jpg" media-type="image/jpeg"/>
+    <item id="x3.jpg" href="OEBPS/image/3.jpg" media-type="image/jpeg"/>
+    <item id="A-1.jpg" href="OEBPS/image/A-1.jpg" media-type="image/jpeg"/>
+    <item id="H-1.jpg" href="OEBPS/image/H-1.jpg" media-type="image/jpeg"/>
+    <item id="H-2.jpg" href="OEBPS/image/H-2.jpg" media-type="image/jpeg"/>
+    <item id="H-3.jpg" href="OEBPS/image/H-3.jpg" media-type="image/jpeg"/>
+    <item id="H-4.jpg" href="OEBPS/image/H-4.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="A"/>
+    <itemref idref="A-1"/>
+    <itemref idref="A-2"/>
+    <itemref idref="A-3"/>
+    <itemref idref="A-4"/>
+    <itemref idref="A-5"/>
+    <itemref idref="A-6"/>
+    <itemref idref="QQQA-7.xhtml"/>
+    <itemref idref="A-8"/>
+    <itemref idref="A-9"/>
+    <itemref idref="A-10"/>
+    <itemref idref="A-11"/>
+    <itemref idref="A-12"/>
+    <itemref idref="A-13"/>
+    <itemref idref="A-14"/>
+    <itemref idref="A-15"/>
+    <itemref idref="A-16"/>
+    <itemref idref="A-17"/>
+    <itemref idref="A-18"/>
+    <itemref idref="A-19"/>
+    <itemref idref="A-20"/>
+    <itemref idref="A-21"/>
+    <itemref idref="A-22"/>
+    <itemref idref="A-23"/>
+    <itemref idref="A-24"/>
+    <itemref idref="A-25.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="A-26"/>
+    <itemref idref="A-27"/>
+    <itemref idref="A-28"/>
+    <itemref idref="A-29"/>
+  </spine>
+  <guide>
+    <reference type="cover" href="titlepage.xhtml" title="Cover"/>
+  </guide>
+</package>
